@@ -1,4 +1,3 @@
-# Real-Time-Traffic-Data-Monitoring-Pipeline
 #   Real-Time Traffic Data Monitoring Pipeline (Databricks + PySpark)
 
 ## Project Overview 
