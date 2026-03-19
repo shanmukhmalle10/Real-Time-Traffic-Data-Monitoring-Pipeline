@@ -307,7 +307,7 @@ The pipeline enables several **smart city traffic insights**:
 ### Team Members
 
 - Sandeep Reddy
-- shanmukh
+- Shanmukh Reddy
 - Umesh yadav
 
 
